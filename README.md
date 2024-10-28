@@ -13,6 +13,6 @@ Im experienced in .NET framework using NET MAUI as a cross-platform mobile apps 
 * ✉️  You can contact me at stephaniedlp00@gmail.com
 * 🚀  I'm currently working on Robin AI app
 * 🧠  I'm learning Dart + Flutter
-* 🤝  I'm open to collaborating on Interesting mobile projects
+* 🤝  I'm open to collaborating on Interesting projects
 
 <a href="https://github.com/stephaniedlp" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristoffervelazquez&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
