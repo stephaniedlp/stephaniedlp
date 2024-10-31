@@ -5,8 +5,10 @@ Mobile Dev and Full Stack Dev
 ----------------------------
 
 
-I am a software engineer working at Xipe Technology, and I've been into programming 2+ years. I am interested into creating web and mobile apps.
-Im experienced in .NET framework using NET MAUI as a cross-platform mobile apps and ASP.NET Core for web development.
+I am a software engineer working at Xipe Technology, and I've been into programming 2+ years. I specialize in creating web and mobile applications, value collaborative teamwork, and enjoy engaging in thoughtful, philosophical conversations. 
+
+My expertise lies in object-oriented programming, and I currently work with the .NET ecosystem, developing cross-platform mobile applications using .NET MAUI and building web applications with ASP.NET Core.
+
 
 *  🌍  I  work remotely or hybrid.
 * 🖥️  My portafolio coming soon...
