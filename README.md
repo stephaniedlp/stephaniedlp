@@ -10,11 +10,14 @@ I am a software engineer working at Xipe Technology, and I've been into programm
 I currently work with the .NET ecosystem, developing cross-platform mobile applications using .NET MAUI and building web applications with ASP.NET Core.
 
 
-*  🌍  I  work remotely or hybrid.
+* 🌍  I  work remotely or hybrid.
 * 🖥️  My portafolio coming soon...
 * ✉️  You can contact me at stephaniedlp00@gmail.com
-* 🚀  I'm currently working on Robin AI app
-* 🧠  I'm learning Dart + Flutter
-* 🤝  I'm open to collaborating on Interesting projects
+  
+* 🚀  I'm currently working on Robin (faciliate recruiter's work), 
+* 🚀
+
+* 🧠  I'm developing my skills in Java, C++ and C through LeetCode and HackerRank
+* 🤝  Working on a COOL PROJECT COOMING SOON
 
 
