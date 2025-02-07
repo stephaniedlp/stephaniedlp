@@ -15,7 +15,7 @@ I currently work with the .NET ecosystem, developing cross-platform mobile appli
 * ✉️  You can contact me at stephaniedlp00@gmail.com
   
 * 🚀  I'm currently working on Robin App and Web, 
-* 🚀  I'm currenetly working in CyberSecurity masters
+* 🚀  I'm currenetly learning cybersecurity.
 
 * 🧠  I'm developing my skills in Java, C++ and C through LeetCode and HackerRank
 * 🤝  Working on a COOL PROJECT COOMING SOON
