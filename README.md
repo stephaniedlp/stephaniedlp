@@ -16,7 +16,8 @@ I currently work with the .NET ecosystem, developing cross-platform mobile appli
 * 🔐 Currently learning penetration testing with a focus on web and network security, including hands-on experimentation with Raspberry Pi for network penetration testing projects.
 
 * 🧠  I'm developing my skills in Docker, Kubernetes, Azure Services and Python through LeetCode and HackerRank
-* 🤝  Working on a COOL PROJECT COOMING SOON
-
+---------------------------
+COOL PROJECT COOMING SOON
+---------------------------
 * 🖥️  My portafolio coming soon...
 * ✉️  You can contact me at stephaniedlp00@gmail.com
