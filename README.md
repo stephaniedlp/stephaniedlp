@@ -13,9 +13,9 @@ I currently work with the .NET ecosystem, developing cross-platform mobile appli
 * 🌍  I  work remotely or hybrid.
   
 * 🚀  I'm currently working in C# .NET environment for web development.
-* 🔐 Currently learning penetration testing with a focus on web and network security, including hands-on experimentation with Raspberry Pi using Debian and Linux environment for network penetration testing projects.
+* 🔐 Currently learning Machine Learning using Semantic Kernel, integrating OpenAI's language models and Qdrant for vector similarity search
 
-* 🧠  I'm developing my skills in Docker, Kubernetes, Azure Services and Python through LeetCode, HackerRank, Coursera, Udemy
+* 🧠  I'm developing my skills in Devops, Docker, and  Azure Services.
 ---------------------------
 COOL PROJECTS COOMING SOON
 ---------------------------
