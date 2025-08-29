@@ -5,7 +5,7 @@ Mobile Developer + Web Developer + Software Developer
 ----------------------------
 
 
-I am a software engineer working at Xipe Technology, and I've been into programming 2+ years. I specialize in object-oriented programming, value collaborative teamwork, and enjoy engaging in thoughtful, philosophical conversations. 
+I am a software developer with over 2 years of programming experience. I specialize in object-oriented programming, value collaborative teamwork, and enjoy engaging in thoughtful, philosophical conversations. 
 
 I currently work with the .NET ecosystem, developing cross-platform mobile applications using .NET MAUI and building web applications with ASP.NET Core.
 
