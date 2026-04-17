@@ -1,13 +1,9 @@
 # Stephanie De La Puente Jouanne
 
 Backend Engineer | .NET Developer | AI & Scalable Systems Engineer
-
 I build reliable backend systems, APIs, web applications, and intelligent software using the Microsoft ecosystem. My focus is creating scalable solutions with clean architecture, strong performance, and real business impact.
-
 Currently working with **C#, .NET, ASP.NET Core, SQL, Blazor, .NET MAUI**, and expanding into **Cloud, DevOps, Distributed Systems, and AI Engineering**.
-
 ---
-
 ## About Me
 
 - 💼 Software Engineer with 2+ years of hands-on development experience
@@ -16,18 +12,6 @@ Currently working with **C#, .NET, ASP.NET Core, SQL, Blazor, .NET MAUI**, and e
 - 🚀 Passionate about scalable architecture, performance, and modern engineering practices
 - 🤝 Comfortable working in remote, hybrid, and international teams
 - 🌎 Open to Remote / Hybrid / Relocation opportunities
-
----
-
-## Current Focus
-
-- 🔹 Building production applications in **C# / .NET**
-- 🔹 Developing secure APIs and backend services
-- 🔹 Learning **Azure, Docker, CI/CD, DevOps**
-- 🔹 Exploring **Machine Learning + Semantic Kernel + OpenAI + Vector Databases**
-- 🔹 Improving skills in **system design, distributed systems, and cloud architecture**
-
----
 
 ## Tech Stack
 
